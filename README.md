@@ -8,3 +8,4 @@ The companion iOS application for the Kanto Music Search Engine.
 - developed the front-end using Swift and XCode
 - designed and developed the user interface
 - retrieved music videos for each search result using a YouTube API
+- networking done over HTTP using Alamofire (https://github.com/Alamofire/Alamofire)
